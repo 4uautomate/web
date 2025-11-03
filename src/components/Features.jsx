@@ -13,12 +13,15 @@ const Features = () => {
               <div className="section-title mb-70">
                 {/* <!-- Title --> */}
                 <h2 className="s-50 w-700">
-                  Enhance your workflow and improve your productivity
+                  Automatización práctica, medible y segura
                 </h2>
 
                 {/* <!-- Text --> */}
                 <p className="s-21 color--grey">
-                  Ligula risus auctor tempus magna feugiat lacinia.
+                  Diseñamos, implementamos y operamos automatizaciones con IA,
+                  n8n y WhatsApp para PYMEs y empresas en Chile. Levantamos un
+                  prototipo en días y lo llevamos a producción con métricas de
+                  impacto, trazabilidad y soporte continuo.
                 </p>
               </div>
             </div>
@@ -49,11 +52,8 @@ const Features = () => {
 
                   {/* <!-- Text --> */}
                   <div className="fbox-txt">
-                    <h6 className="s-22 w-700">Friendly Interface</h6>
-                    <p>
-                      Luctus egestas augue undo ultrice aliquam in lacus congue
-                      dapibus
-                    </p>
+                    <h6 className="s-22 w-700">Rápido a valor: </h6>
+                    <p>Prototipos en 5–10 días, pilotos en 2–4 semanas.</p>
                   </div>
                 </div>
               </div>
@@ -81,10 +81,9 @@ const Features = () => {
 
                   {/*  <!-- Text -->  */}
                   <div className="fbox-txt">
-                    <h6 className="s-22 w-700">Extensions &amp; Addons</h6>
+                    <h6 className="s-22 w-700">Enfocado en negocio</h6>
                     <p>
-                      Tempor laoreet augue undo ultrice aliquam in lacusq luctus
-                      feugiat
+                      Prioridad a métricas (SLA, tiempo, conversión, costos).
                     </p>
                   </div>
                 </div>
@@ -113,11 +112,8 @@ const Features = () => {
 
                   {/* <!-- Text --> */}
                   <div className="fbox-txt">
-                    <h6 className="s-22 w-700">Advanced Security</h6>
-                    <p>
-                      Egestas luctus augue undo ultrice aliquam in lacus feugiat
-                      cursus
-                    </p>
+                    <h6 className="s-22 w-700">Open Source y flexible</h6>
+                    <p>Sin lock-in; integraciones con tu stack actual.</p>
                   </div>
                 </div>
               </div>

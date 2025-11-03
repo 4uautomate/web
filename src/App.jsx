@@ -28,7 +28,7 @@ function App() {
       <div id="page" className="page font--jakarta">
         <Header />
         <Hero />
-        <Brands />
+
         <Features />
         <BoxContent />
         <TextContent />

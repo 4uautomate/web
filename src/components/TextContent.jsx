@@ -30,22 +30,21 @@ const TextContent = () => {
                 style={{ visibility: "visible" }}
               >
                 {/*  <!-- Section ID --> */}
-                <span className="section-id">Strategies That Work</span>
+                <span className="section-id">Cómo trabajamos (proceso)</span>
 
                 {/*  <!-- Title --> */}
                 <h2 className="s-46 w-700">
-                  Right strategies &amp; implementations
+                  De prototipo a producción en semanas
                 </h2>
 
                 {/*  <!-- Text --> */}
                 <p>
-                  Sodales tempor sapien quaerat ipsum undo congue laoreet turpis
-                  neque auctor turpis vitae dolor luctus placerat magna and
-                  ligula cursus purus vitae purus an ipsum suscipit
+                  Entregamos documentación, acceso a repos y paneles de
+                  métricas.
                 </p>
 
                 {/*  <!-- Small Title --> */}
-                <h5 className="s-24 w-700">Optimize your presence</h5>
+                <h5 className="s-24 w-700">Pasos</h5>
 
                 {/*  <!-- CONTENT BOX #1 --> */}
                 <div className="cbox-1 ico-15">
@@ -56,7 +55,9 @@ const TextContent = () => {
                   </div>
 
                   <div className="cbox-1-txt">
-                    <p>Magna dolor luctus at egestas sapien</p>
+                    <p>
+                      Descubrimiento (1–2 días): Objetivos, KPIs y sistemas.
+                    </p>
                   </div>
                 </div>
 
@@ -70,8 +71,7 @@ const TextContent = () => {
 
                   <div className="cbox-1-txt">
                     <p>
-                      Cursus purus suscipit vitae cubilia magnis volute egestas
-                      vitae sapien turpis ultrice auctor congue varius magnis
+                      Prototipo (5–10 días): Flujo funcional con datos reales.
                     </p>
                   </div>
                 </div>
@@ -86,7 +86,22 @@ const TextContent = () => {
 
                   <div className="cbox-1-txt">
                     <p className="mb-0">
-                      Volute turpis dolores and sagittis congue
+                      Piloto (2–4 semanas): Ajustes, métricas, hardening.
+                    </p>
+                  </div>
+                </div>
+
+                {/*  <!-- CONTENT BOX #4 --> */}
+                <div className="cbox-1 ico-15">
+                  <div className="ico-wrap color--theme">
+                    <div className="cbox-1-ico">
+                      <span className="flaticon-check"></span>
+                    </div>
+                  </div>
+
+                  <div className="cbox-1-txt">
+                    <p className="mb-0">
+                      Producción y soporte: Monitoreo, SLA y mejoras continuas.
                     </p>
                   </div>
                 </div>

@@ -13,12 +13,12 @@ const Hero = () => {
               <div className="hero-8-txt color--white wow fadeInRight">
                 {/*<!-- Title --> */}
                 <h2 className="s-54 w-700">
-                  Optimize your website for speed and efficiency
+                  Automatizamos tus procesos con IA, n8n y WhatsApp
                 </h2>
                 {/*<!-- Text -->      */}
                 <p className="p-lg color--coal">
-                  Mauris donec turpis suscipit sapien ociis sagittis sapien
-                  tempor undo volute ligula quaerat congue neque nulla
+                  Prototipos en días. Producción con métricas y trazabilidad.
+                  Reducimos tiempos y errores mientras aumentas conversiones.
                 </p>
                 {/*<!-- HERO DIGITS -->	 */}
                 <div className="hero-digits clearfix">
@@ -28,14 +28,14 @@ const Hero = () => {
                       {/*<!-- Digit --> */}
                       <div className="block-digit">
                         <h2 className="s-46 statistic-number">
-                          3<span>x</span>
+                          48<span>h</span>
                         </h2>
                       </div>
 
                       {/*<!-- Text --> */}
                       <div className="block-txt">
                         <p className="p-sm 1color--coal">
-                          Tempor sapien and quaerat placerat
+                          Recibe un diagnostico
                         </p>
                       </div>
                     </div>
@@ -47,15 +47,13 @@ const Hero = () => {
                       {/*<!-- Digit --> */}
                       <div className="block-digit">
                         <h2 className="s-46 statistic-number">
-                          29<span>%</span>
+                          5–10<span>dias</span>
                         </h2>
                       </div>
 
                       {/*<!-- Text --> */}
                       <div className="block-txt">
-                        <p className="p-sm 1color--coal">
-                          Ligula suscipit vitae and rutrum turpis
-                        </p>
+                        <p className="p-sm 1color--coal">Prototipo</p>
                       </div>
                     </div>
                   </div>
@@ -69,12 +67,13 @@ const Hero = () => {
             <div className="col-md-6 col-lg-5">
               <div id="hero-8-form" className="r-10 wow fadeInLeft">
                 {/*<!-- Title --> */}
-                <h4 className="s-26 w-700">Get started for Free!</h4>
+                <h4 className="s-26 w-700">
+                  Dejeanos tus datos para contactarte
+                </h4>
 
                 {/*<!-- Text --> */}
                 <p className="p-md">
-                  Feugiat primis ligula risus auctor purus laoreet augue mauris
-                  viverra tortor
+                  En breve nos pondremos en contacto contigo...
                 </p>
 
                 {/*<!-- Form -->    */}
@@ -89,7 +88,7 @@ const Hero = () => {
                       type="text"
                       name="name"
                       className="form-control name"
-                      placeholder="Enter Your Name*"
+                      placeholder="Ingresa tu nombre*"
                       autoComplete="off"
                       required=""
                     />
@@ -101,7 +100,7 @@ const Hero = () => {
                       type="email"
                       name="email"
                       className="form-control email"
-                      placeholder="Enter Your Email*"
+                      placeholder="Ingresa tu correo Email*"
                       autoComplete="off"
                       required=""
                     />
@@ -113,7 +112,7 @@ const Hero = () => {
                       type="submit"
                       className="btn btn--theme hover--theme submit"
                     >
-                      Get Started Now
+                      Enviar
                     </button>
                   </div>
 
@@ -122,18 +121,6 @@ const Hero = () => {
                     <span className="loading"></span>
                   </div>
                 </form>
-
-                {/*<!-- Notice Text -->       */}
-                <p className="p-sm">
-                  By submitting this form, you accept our
-                  <a href="https://dsathemes.com/html/martex_1.1/files/terms.html">
-                    Terms of Service
-                  </a>
-                  and
-                  <a href="https://dsathemes.com/html/martex_1.1/files/privacy.html">
-                    Privacy Policy
-                  </a>
-                </p>
               </div>
               {/*<!-- END FORM --> 	*/}
             </div>
