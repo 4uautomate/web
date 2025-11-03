@@ -4,8 +4,7 @@ import PropTypes from "prop-types";
 const Testimonials = (props) => {
   return (
     <>
-      {/* <!-- TESTIMONIALS-1
-			============================================= --> */}
+      {/* <!-- TESTIMONIALS-1 			============================================= --> */}
       <section
         id="reviews-1"
         className="pt-100 shape--06 shape--gr-whitesmoke reviews-section"
@@ -41,7 +40,10 @@ const Testimonials = (props) => {
                       width: "6893px",
                     }}
                   >
-                    <div className="owl-item cloned" style="width: 430.76px">
+                    <div
+                      className="owl-item cloned"
+                      style={{ width: "430.76px" }}
+                    >
                       <div className="review-1 bg--white-100 block-shadow r-08">
                         {/* <!-- Quote Icon --> */}
                         <div className="review-ico ico-65">
@@ -79,7 +81,10 @@ const Testimonials = (props) => {
                         {/* <!-- End Text --> */}
                       </div>
                     </div>
-                    <div className="owl-item cloned" style="width: 430.76px">
+                    <div
+                      className="owl-item cloned"
+                      style={{ width: "430.76px" }}
+                    >
                       <div className="review-1 bg--white-100 block-shadow r-08">
                         {/* <!-- Quote Icon --> */}
                         <div className="review-ico ico-65">
@@ -116,7 +121,10 @@ const Testimonials = (props) => {
                         {/* <!-- End Text --> */}
                       </div>
                     </div>
-                    <div className="owl-item cloned" style="width: 430.76px">
+                    <div
+                      className="owl-item cloned"
+                      style={{ width: "430.76px" }}
+                    >
                       <div className="review-1 bg--white-100 block-shadow r-08">
                         {/* <!-- Quote Icon --> */}
                         <div className="review-ico ico-65">
@@ -154,7 +162,10 @@ const Testimonials = (props) => {
                         {/* <!-- End Text --> */}
                       </div>
                     </div>
-                    <div className="owl-item cloned" style="width: 430.76px">
+                    <div
+                      className="owl-item cloned"
+                      style={{ width: "430.76px" }}
+                    >
                       <div className="review-1 bg--white-100 block-shadow r-08">
                         {/* <!-- Quote Icon --> */}
                         <div className="review-ico ico-65">
@@ -191,7 +202,7 @@ const Testimonials = (props) => {
                         {/* <!-- End Text --> */}
                       </div>
                     </div>
-                    <div className="owl-item" style="width: 430.76px">
+                    <div className="owl-item" style={{ width: "430.76px" }}>
                       <div className="review-1 bg--white-100 block-shadow r-08">
                         {/* <!-- Quote Icon --> */}
                         <div className="review-ico ico-65">
@@ -228,7 +239,7 @@ const Testimonials = (props) => {
                         {/* <!-- End Text --> */}
                       </div>
                     </div>
-                    <div className="owl-item" style="width: 430.76px">
+                    <div className="owl-item" style={{ width: "430.76px" }}>
                       <div className="review-1 bg--white-100 block-shadow r-08">
                         {/* <!-- Quote Icon --> */}
                         <div className="review-ico ico-65">
@@ -266,7 +277,7 @@ const Testimonials = (props) => {
                         {/* <!-- End Text --> */}
                       </div>
                     </div>
-                    <div className="owl-item" style="width: 430.76px">
+                    <div className="owl-item" style={{ width: "430.76px" }}>
                       <div className="review-1 bg--white-100 block-shadow r-08">
                         {/* <!-- Quote Icon --> */}
                         <div className="review-ico ico-65">
@@ -303,7 +314,7 @@ const Testimonials = (props) => {
                         {/* <!-- End Text --> */}
                       </div>
                     </div>
-                    <div className="owl-item" style="width: 430.76px">
+                    <div className="owl-item" style={{ width: "430.76px" }}>
                       <div className="review-1 bg--white-100 block-shadow r-08">
                         {/* <!-- Quote Icon --> */}
                         <div className="review-ico ico-65">
@@ -340,7 +351,10 @@ const Testimonials = (props) => {
                         {/* <!-- End Text --> */}
                       </div>
                     </div>
-                    <div className="owl-item active" style="width: 430.76px">
+                    <div
+                      className="owl-item active"
+                      style={{ width: "430.76px" }}
+                    >
                       <div className="review-1 bg--white-100 block-shadow r-08">
                         {/* <!-- Quote Icon --> */}
                         <div className="review-ico ico-65">
@@ -378,7 +392,10 @@ const Testimonials = (props) => {
                         {/* <!-- End Text --> */}
                       </div>
                     </div>
-                    <div className="owl-item active" style="width: 430.76px">
+                    <div
+                      className="owl-item active"
+                      style={{ width: "430.76px" }}
+                    >
                       <div className="review-1 bg--white-100 block-shadow r-08">
                         {/* <!-- Quote Icon --> */}
                         <div className="review-ico ico-65">
@@ -415,7 +432,10 @@ const Testimonials = (props) => {
                         {/* <!-- End Text --> */}
                       </div>
                     </div>
-                    <div className="owl-item active" style="width: 430.76px">
+                    <div
+                      className="owl-item active"
+                      style={{ width: "430.76px" }}
+                    >
                       <div className="review-1 bg--white-100 block-shadow r-08">
                         {/* <!-- Quote Icon --> */}
                         <div className="review-ico ico-65">
@@ -453,7 +473,7 @@ const Testimonials = (props) => {
                         {/* <!-- End Text --> */}
                       </div>
                     </div>
-                    <div className="owl-item" style="width: 430.76px">
+                    <div className="owl-item" style={{ width: "430.76px" }}>
                       <div className="review-1 bg--white-100 block-shadow r-08">
                         {/* <!-- Quote Icon --> */}
                         <div className="review-ico ico-65">
@@ -490,7 +510,10 @@ const Testimonials = (props) => {
                         {/* <!-- End Text --> */}
                       </div>
                     </div>
-                    <div className="owl-item cloned" style="width: 430.76px">
+                    <div
+                      className="owl-item cloned"
+                      style={{ width: "430.76px" }}
+                    >
                       <div className="review-1 bg--white-100 block-shadow r-08">
                         {/* <!-- Quote Icon --> */}
                         <div className="review-ico ico-65">
@@ -527,7 +550,10 @@ const Testimonials = (props) => {
                         {/* <!-- End Text --> */}
                       </div>
                     </div>
-                    <div className="owl-item cloned" style="width: 430.76px">
+                    <div
+                      className="owl-item cloned"
+                      style={{ width: "430.76px" }}
+                    >
                       <div className="review-1 bg--white-100 block-shadow r-08">
                         {/* <!-- Quote Icon --> */}
                         <div className="review-ico ico-65">
@@ -565,7 +591,10 @@ const Testimonials = (props) => {
                         {/* <!-- End Text --> */}
                       </div>
                     </div>
-                    <div className="owl-item cloned" style="width: 430.76px">
+                    <div
+                      className="owl-item cloned"
+                      style={{ width: "430.76px" }}
+                    >
                       <div className="review-1 bg--white-100 block-shadow r-08">
                         {/* <!-- Quote Icon --> */}
                         <div className="review-ico ico-65">
@@ -602,7 +631,10 @@ const Testimonials = (props) => {
                         {/* <!-- End Text --> */}
                       </div>
                     </div>
-                    <div className="owl-item cloned" style="width: 430.76px">
+                    <div
+                      className="owl-item cloned"
+                      style={{ width: "430.76px" }}
+                    >
                       <div className="review-1 bg--white-100 block-shadow r-08">
                         {/* <!-- Quote Icon --> */}
                         <div className="review-ico ico-65">

@@ -31,7 +31,7 @@ const Baner = (props) => {
                       href="https://dsathemes.com/html/martex_1.1/files/demo-8.html#hero-8"
                       className="btn r-04 btn--theme hover--tra-white"
                     >
-                      Get srarted - it's free
+                      Get srarted - its free
                     </a>
                   </div>
                 </div>
