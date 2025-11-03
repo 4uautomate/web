@@ -22,8 +22,6 @@ import Baner from "./components/Baner.jsx";
 import Footer from "./components/Footer.jsx";
 
 function App() {
-  const [count, setCount] = useState(0);
-
   return (
     <>
       {/* PAGE CONTENT ============================================= -->	*/}
@@ -43,7 +41,7 @@ function App() {
         <Divider />
         <Integrations />
         <TextContentNumbers />
-        <Testimonials />
+
         <Faq />
         <Baner />
         <Footer />

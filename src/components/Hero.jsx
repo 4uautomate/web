@@ -5,7 +5,7 @@ const Hero = () => {
   return (
     <>
       {/*<!-- HERO-8 			============================================= -->	    */}
-      <section id="hero-8" className="bg--fixed hero-section">
+      <section id="hero-8" className="bg--fixed hero-section ">
         <div className="container">
           <div className="row d-flex align-items-center">
             {/*<!-- HERO TEXT --> 	*/}
