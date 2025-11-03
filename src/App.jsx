@@ -28,22 +28,16 @@ function App() {
       <div id="page" className="page font--jakarta">
         <Header />
         <Hero />
-
         <Features />
         <BoxContent />
         <TextContent />
         <Features12 />
         <Statistic />
         <Divider />
-        <TextContent2 />
-        <ImageContent />
         <Features6 />
         <Divider />
         <Integrations />
-        <TextContentNumbers />
-
         <Faq />
-        <Baner />
         <Footer />
       </div>
     </>
