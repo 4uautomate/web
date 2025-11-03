@@ -18,35 +18,29 @@ const Features12 = (props) => {
                 style={{ visibility: "visible" }}
               >
                 {/*  <!-- Section ID --> */}
-                <span className="section-id">One-Stop Solution</span>
+                <span className="section-id">Servicios destacados</span>
 
                 {/*  <!-- Title --> */}
-                <h2 className="s-46 w-700">
-                  Smart solutions, real-time results
-                </h2>
+                <h2 className="s-46 w-700">¿Cómo podemos ayudarte?</h2>
 
                 {/*  <!-- Text --> */}
-                <p>
-                  Sodales tempor sapien quaerat ipsum and congue undo laoreet
-                  turpis neque auctor turpis vitae dolor luctus placerat magna
-                  ligula and cursus vitae
-                </p>
+                <p>En 4uAutomate, nos encargamos de tu automatización.</p>
 
                 {/*  <!-- List --> */}
                 <ul className="simple-list">
                   <li className="list-item">
-                    <p>
-                      Tempor sapien quaerat undo ipsum laoreet diam purus sapien
-                      a dolor ociis ultrice ipsum aliquam congue a dolor cursus
-                      congue varius magnis
-                    </p>
+                    <p>Recibe un diagnóstico sin costo en 48 horas</p>
                   </li>
 
                   <li className="list-item">
                     <p className="mb-0">
-                      Cursus purus suscipit vitae cubilia magnis diam volute
-                      egestas sapien ultrice auctor
+                      Te proponemos 2–3 automatizaciones priorizadas por impacto
+                      y factibilidad.
                     </p>
+                  </li>
+
+                  <li className="list-item">
+                    <p className="mb-0">Agenda una demo</p>
                   </li>
                 </ul>
               </div>
@@ -88,10 +82,12 @@ const Features12 = (props) => {
 
                       {/*  <!-- Text --> */}
                       <div className="fbox-txt">
-                        <h5 className="s-19 w-700">Market Research</h5>
+                        <h5 className="s-19 w-700">
+                          Automatización de WhatsApp
+                        </h5>
                         <p>
-                          Porta semper lacus and cursus feugiat at primis
-                          ultrice a ligula auctor
+                          Captación, calificación y soporte en WhatsApp con
+                          flujos n8n, bots inteligentes y conexión a tu CRM.
                         </p>
                       </div>
                     </div>
@@ -123,10 +119,12 @@ const Features12 = (props) => {
 
                       {/*  <!-- Text --> */}
                       <div className="fbox-txt">
-                        <h5 className="s-19 w-700">User Experience</h5>
+                        <h5 className="s-19 w-700">
+                          Flujos n8n y RPA para Back-Office
+                        </h5>
                         <p>
-                          Porta semper lacus and cursus feugiat at primis
-                          ultrice a ligula auctor
+                          Orquestación de procesos (ventas, operaciones,
+                          logística) reduciendo tareas manuales y errores.
                         </p>
                       </div>
                     </div>
@@ -160,10 +158,12 @@ const Features12 = (props) => {
 
                       {/*  <!-- Text --> */}
                       <div className="fbox-txt">
-                        <h5 className="s-19 w-700">Digital Marketing</h5>
+                        <h5 className="s-19 w-700">
+                          Agentes con IA para Soporte y Ventas
+                        </h5>
                         <p>
-                          Porta semper lacus and cursus feugiat at primis
-                          ultrice a ligula auctor
+                          Agentes que responden, clasifican y derivan usando tu
+                          base de conocimiento y reglas de negocio.
                         </p>
                       </div>
                     </div>
@@ -195,10 +195,10 @@ const Features12 = (props) => {
 
                       {/*  <!-- Text --> */}
                       <div className="fbox-txt">
-                        <h5 className="s-19 w-700">SEO Services</h5>
+                        <h5 className="s-19 w-700">Integraciones</h5>
                         <p>
-                          Porta semper lacus and cursus feugiat at primis
-                          ultrice a ligula auctor
+                          Integraciones con sistemas de terceros (APIs, CRM,
+                          ERP, etc.)
                         </p>
                       </div>
                     </div>

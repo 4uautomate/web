@@ -12,7 +12,7 @@ const Faq = () => {
             <div className="col-md-10 col-lg-9">
               <div className="section-title mb-70">
                 {/* <!-- Title --> */}
-                <h2 className="s-50 w-700">Questions &amp; Answers</h2>
+                <h2 className="s-50 w-700">Preguntas frecuentes</h2>
 
                 {/* <!-- Text --> */}
                 <p className="s-21 color--grey">
@@ -35,14 +35,13 @@ const Faq = () => {
                   >
                     {/* <!-- Question --> */}
                     <h5 className="s-22 w-700">
-                      <span>1.</span> Getting started with Martex
+                      <span>1.</span> ¿Cuánto tarda una implementación?
                     </h5>
 
                     {/* <!-- Answer --> */}
                     <p className="color--grey">
-                      Etiam amet mauris suscipit in odio integer congue metus
-                      and vitae arcu mollis blandit ultrice ligula egestas magna
-                      suscipit lectus magna suscipit luctus blandit and laoreet
+                      Prototipo en 5–10 días, piloto en 2–4 semanas, según
+                      complejidad.
                     </p>
                   </div>
 
@@ -53,14 +52,14 @@ const Faq = () => {
                   >
                     {/* <!-- Question --> */}
                     <h5 className="s-22 w-700">
-                      <span>2.</span> Whats inside the package?
+                      <span>2.</span> ¿Qué ROI puedo esperar?
                     </h5>
 
                     {/* <!-- Answer --> */}
                     <p className="color--grey">
-                      An enim nullam tempor sapien gravida donec ipsum and enim
-                      porta justo integer at velna vitae auctor integer congue
-                      undo magna laoreet augue pretium purus pretium ligula
+                      Dependiendo del proceso, hemos visto -30% a -60% en
+                      tiempos y +10% a +30% en conversiones. Definimos KPIs al
+                      inicio.
                     </p>
                   </div>
 
@@ -71,26 +70,15 @@ const Faq = () => {
                   >
                     {/* <!-- Question --> */}
                     <h5 className="s-22 w-700">
-                      <span>3.</span> How do I choose a plan?
+                      <span>3.</span> ¿Necesito equipo técnico interno?
                     </h5>
 
                     {/* <!-- Answer --> */}
-                    <ul className="simple-list color--grey">
-                      <li className="list-item">
-                        <p>
-                          Fringilla risus, luctus mauris orci auctor purus
-                          ligula euismod pretium purus pretium rutrum tempor
-                          sapien
-                        </p>
-                      </li>
 
-                      <li className="list-item">
-                        <p>
-                          Nemo ipsam egestas volute undo turpis purus lipsum
-                          primis aliquam sapien quaerat sodales pretium a purus
-                        </p>
-                      </li>
-                    </ul>
+                    <p>
+                      No es obligatorio. Trabajamos con tu equipo y dejamos todo
+                      documentado.
+                    </p>
                   </div>
                 </div>
               </div>
@@ -106,19 +94,13 @@ const Faq = () => {
                   >
                     {/* <!-- Question --> */}
                     <h5 className="s-22 w-700">
-                      <span>4.</span> How does Martex handle my privacy?
+                      <span>4.</span> ¿Pueden integrar con mi ERP/CRM?
                     </h5>
 
                     {/* <!-- Answer --> */}
                     <p className="color--grey">
-                      Quaerat sodales sapien euismod blandit purus a purus ipsum
-                      primis in cubilia laoreet augue luctus dolor luctus
-                    </p>
-
-                    {/* <!-- Answer --> */}
-                    <p className="color--grey">
-                      An enim nullam tempor sapien gravida donec congue metus.
-                      Vitae arcu mollis blandit integer nemo volute velna
+                      Sí. Trabajamos con APIs estándar y conectores (n8n,
+                      Webhooks, REST, GraphQL).
                     </p>
                   </div>
 
@@ -129,14 +111,14 @@ const Faq = () => {
                   >
                     {/* <!-- Question --> */}
                     <h5 className="s-22 w-700">
-                      <span>5.</span> I have an issue with my account
+                      <span>5.</span> ¿Cómo aseguran calidad y seguridad?
                     </h5>
 
                     {/* <!-- Answer --> */}
                     <p className="color--grey">
-                      Cubilia laoreet augue egestas and luctus donec curabite
-                      diam vitae dapibus libero and quisque gravida donec neque
-                      blandit justo aliquam molestie nunc sapien justo
+                      Entornos separados, logs, roles, backups y guardrails para
+                      IA; cumplimiento de buenas prácticas y principios de
+                      privacidad.
                     </p>
                   </div>
 
@@ -147,14 +129,13 @@ const Faq = () => {
                   >
                     {/* <!-- Question --> */}
                     <h5 className="s-22 w-700">
-                      <span>6.</span> Can I cancel at anytime?
+                      <span>6.</span> Si no tengo infraestructura, puedo
+                      hacerlo?
                     </h5>
 
                     {/* <!-- Answer --> */}
                     <p className="color--grey">
-                      An enim nullam tempor sapien gravida donec ipsum and enim
-                      porta justo integer at velna vitae auctor integer congue
-                      undo magna laoreet augue pretium purus pretium ligula
+                      Sí. Trabajamos con AWS, Azure, GCP y otros.
                     </p>
                   </div>
                 </div>
@@ -171,12 +152,9 @@ const Faq = () => {
               <div className="more-questions mt-40">
                 <div className="more-questions-txt bg--white-400 r-100">
                   <p className="p-lg">
-                    Have any questions?
-                    <a
-                      href="https://dsathemes.com/html/martex_1.1/files/contacts.html"
-                      className="color--theme"
-                    >
-                      Get in Touch
+                    Tienes más consultas?
+                    <a href="contacto.html" className="color--theme">
+                      Escribenos
                     </a>
                   </p>
                 </div>
